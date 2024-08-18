@@ -1,3 +1,3 @@
 # belajar-htmll
-buat htmk
+buat html
 pengenalan css
